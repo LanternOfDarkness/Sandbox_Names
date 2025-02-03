@@ -1,0 +1,25 @@
+The list of processes launched on Sandbox.
+
+## ComputerName: 1UsQTBu1
+## UserName: TVM
+## Processes:  launcher, svchost, WmiPrvSE, mdpmon, loader, conhost, upfc, svchost, svchost, svchost, RuntimeBroker, services, close_popup, svchost, mdsdesp, fontdrvhost, fontdrvhost, svchost, winlogon, TiWorker, wininit, svchost, smss, svchost, notepad, dwm, usocoreworker, fodhelper, WMIADAP, TrustedInstaller, conhost, taskhostw, dllhost, svchost, csrss, nudge, SearchUI, svchost, DeviceCensus, taskhostw, svchost, WinDump, RemindersServer, svchost, Registry, conhost, svchost, WmiPrvSE, svchost, ApplicationFrameHost, sihost, SgrmBroker, csrss, VSSVC, conhost, svchost, StartMenuExperienceHost, taskhostw, RuntimeBroker, svchost, lsass, conhost, svchost, svchost, svchost, explorer, conhost, DeviceCensus, System, Idle
+
+## ComputerName: DESKTOP-0BFKM98
+## UserName: elz
+## Processes: services, csrss, svchost, svchost, svchost, svchost, svchost, svchost, SecurityHealthService, svchost, svchost, svchost, svchost, metsvc, conhost, StartMenuExperienceHost, svchost, svchost, svchost, fontdrvhost, svchost, upfc, svchost, svchost, fontdrvhost, svchost, SgrmBroker, svchost, svchost, dwm, svchost, explorer, svchost, svchost, winlogon, SearchApp, svchost, svchost, wininit, svchost, python, svchost, svchost, WmiPrvSE, cmd, sihost, svchost, ctfmon, svchost, smss, svchost, BingChatInstaller, Registry, svchost, spoolsv, svchost, svchost, sppsvc, conhost, WMIADAP, dllhost, TextInputHost, csrss, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, svchost, RuntimeBroker, metsvc-server, svchost, svchost, RuntimeBroker, svchost, svchost, svchost, ONENOTEM, svchost, RuntimeBroker, svchost, svchost, svchost, svchost, svchost, ShellExperienceHost, RuntimeBroker, svchost, lsass, System, Idle.
+
+## ComputerName: DX-YCF569GVIW4R
+## UserName: dx
+## Processes: svchost, csrss, svchost, services, ShellExperienceHost, svchost, metsvc, svchost, svchost, dllhost, metsvc-server, WMIADAP, svchost, svchost, StartMenuExperienceHost, svchost, svchost, svchost, ctfmon, svchost, svchost, svchost, ONENOTEM, svchost, WmiPrvSE, svchost, svchost, svchost, svchost, svchost, svchost, fontdrvhost, dwm, fontdrvhost, svchost, svchost, conhost, SearchApp, svchost, svchost, svchost, winlogon, svchost, svchost, svchost, explorer, svchost, svchost, sihost, RuntimeBroker, svchost, conhost, svchost, svchost, svchost, smss, svchost, svchost, SgrmBroker, BingChatInstaller, svchost, svchost, sppsvc, Registry, svchost, csrss, svchost, svchost, svchost, svchost, TextInputHost, svchost, svchost, svchost, svchost, RuntimeBroker, svchost, RuntimeBroker, svchost, svchost, svchost, svchost, svchost, python, wininit, SecurityHealthService, cmd, svchost, spoolsv, svchost, svchost, svchost, RuntimeBroker, svchost, System, lsass, Idle.
+
+## ComputerName: jrfwLnvUIZMDcFu
+## UserName: jrfw
+## Processes: thunderbird, csrss, wininit, smss, svchost, sqbcoreservice, spoolsv, svchost, svchost, wnohtyp, dwm, sihost, WmiPrvSE, svchost, svchost, svchost, svchost, fontdrvhost, lsass, svchost, svchost, fontdrvhost, SearchUI, svchost, oracle, RuntimeBroker, svchost, explorer, MSASCuiL, svchost, svchost, taskhostw, taskhostw, svchost, services, SecurityHealthService, svchost, winlogon, audiodg, svchost, ShellExperienceHost, svchost, svchost, svchost, Memory Compression, wnohtyp, csrss, System, PWRISOVM, Idle.
+
+## ComputerName: ANNA-PC
+## UserName: Anna
+## Processes: svchost, explorer, svchost, svchost, dinotify, svchost, spoolsv, lsm, taskhost, svchost, lsass, SearchProtocolHost, csrss, svchost, SearchIndexer, foobar, pw, svchost, wininit, pw, SearchFilterHost, svchost, winlogon, taskeng, svchost, sppsvc, smss, svchost, svchost, svchost, svchost, svchost, dwm, csrss, System, services, WmiPrvSE, Idle.
+
+## ComputerName: WIN-ISD2OK8E5E7
+## UserName: mHeuK
+## Processes: chrome, explorer, svchost, csrss, wininit, iexplore, svchost, mgoszm, firefox, communicator, bitcoind, chrome, Skype, chrome, chrome, wmpnetwk, svchost, opera, iexplore, smss, WmiPrvSE, steamwebhelper, opera, Skype, chrome, iexplore, steamwebhelper, iexplore, csrss, iexplore, chrome, svchost, firefox, chrome, svchost, taskhost, chrome, opera, lsm, firefox, lsass, OSPPSVC, steamwebhelper, winlogon, Skype, services, svchost, spoolsv, iexplore, chrome, steamwebhelper, chrome, steamwebhelper, svchost, firefox, chrome, opera, WUDFHost, steam, SOUNDMAN, iexplore, svchost, SteamService, chrome, taskhost, chrome, chrome, opera, Skype, steamwebhelper, chrome, dwm, chrome, bitcoin-qt, splwow64, opera, svchost, chrome, System, svchost, chrome, Idle.
